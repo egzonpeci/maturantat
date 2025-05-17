@@ -51,7 +51,7 @@ html, body {
 }
 
 
-@media screen and (max-width:390px) {
+@media screen and (max-width:375px) {
 
     .left-side {
         display: none;
